@@ -1,0 +1,61 @@
+body{
+    margin-top: 200px;
+    overflow: hidden;
+}
+.mainContent{
+    text-align:center;
+}
+
+#nwcs{
+    text-align: center;
+    font-size: 25px;
+}
+
+#studio{
+    display: inline-block;
+    width:auto;
+}
+
+#logo{
+    max-height: 170px;
+    max-width: 190px;
+}
+
+.contactInfo{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin-top: 220px;
+}
+
+p{
+    font-family: monospace;
+    font-size: 18px;
+    color: #383838;
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #383838;
+}
+a:visited{
+    text-decoration: none;
+    font-size: 18px;
+    color: #383838;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+h2{
+    font-family: monospace;
+    font-style: normal;
+    font-weight: 100;
+    color: #383838;
+
+}
+#chat{
+    position: static;
+}
